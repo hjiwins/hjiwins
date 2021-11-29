@@ -14,7 +14,7 @@ My name is Jiwon (You can also call me "G1"😉) who loves web development and d
 
 <!-- List -->
 ## 1. 알고 있는 것
-* Korean (Navive)
+* Korean (Native)
 * Japanese (Majored)
 * English
 
