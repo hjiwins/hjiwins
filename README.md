@@ -20,6 +20,7 @@ My name is Jiwon (Pronounce it like "G1"😉) I love web development and design.
 
 ## 2. 계속 배우고 있는 것
 * PHP
+* Laravel
 * MySQL
 * HTML
 * CSS (SCSS)
@@ -27,7 +28,7 @@ My name is Jiwon (Pronounce it like "G1"😉) I love web development and design.
 * React
 * Vue
 
-## 3. Favofite tools
+## 3. 좋아하는 툴들 Favorite tools
 - VS Code
 - Git
 - Adobe Photoshop, Illustrator and XD
